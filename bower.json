@@ -1,0 +1,23 @@
+{
+  "name": "Rogerio",
+  "description": "Site para o Cliente Rogério",
+  "main": "",
+  "authors": [
+    "Eric Nakamura"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
